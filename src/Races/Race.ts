@@ -1,5 +1,3 @@
-// import Fighter from '../Fighter';
-
 abstract class Race {
   constructor(protected _name: string, protected _dexterity: number) { }
 
