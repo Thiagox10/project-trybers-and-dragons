@@ -1,5 +1,5 @@
 import Archetype, { Mage } from './Archetypes';
-import Energy, { EnergyType } from './Energy';
+import Energy from './Energy';
 import Fighter from './Fighter';
 import Race, { Elf } from './Races';
 import getRandomInt from './utils';
